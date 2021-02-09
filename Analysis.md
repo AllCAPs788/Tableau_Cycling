@@ -1,8 +1,14 @@
-This is my analysis for my tableau project.
+# Citibike Analysis
 
-In going though my data, I found the following two data trends [insert trends]
+In going though my data, I found the following two data trends breaking down variables regarding gender and age. 
 
-One phenomena that I traced was age vs. average trip duration and the total trip durations in minutes by decade of birth. 
+## Trend 1:
+
+The first trend I visualized was the counts of male vs. female bikers per each station. 
+
+## Trend 2:
+
+Another phenomena that I traced was age vs. average trip duration and the total trip durations in minutes by decade of birth. 
 
 From the data I found one particular quirk: for a modern service, some of the users were born well over a hundred years ago. 
 
