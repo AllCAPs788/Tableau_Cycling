@@ -4,7 +4,10 @@ In going though my data, I found the following two data trends breaking down var
 
 ## Trend 1:
 
-The first trend I visualized was the counts of male vs. female bikers per each station. 
+The first trend I visualized was the counts of male vs. female bikers per each station. The station with the largest number of male users was Pershing Square North (6,508 men versus 794 women). Somers Street and Broadway had the lowest representation for both male and female representation (3 and 0 respectively).  
+The West 21 Street and Sixth Avenue station had the largest female representation at 1,677 users (versus 4,545 male cyclists).
+
+The overall totals of male to female is 695,884 to 212,896 cyclists. This means that male-to-female ratio is appoximately 7 to 3 in favor of male usage. It should be noted that there were null fields (no gender listed), but I wanted to limit the focus to male versus female. 
 
 ## Trend 2:
 
