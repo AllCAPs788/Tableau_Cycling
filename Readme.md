@@ -11,4 +11,6 @@ Visualizations provided are here to tackle two trends:
 1. Age vs. Trip duration 
 2. Station use by gender
 
-Further analysis is explored in the 
+## Analysis
+
+Analysis is explored [**here**](https://github.com/AllCAPs788/citibike_tableau/blob/master/Analysis.md).  
