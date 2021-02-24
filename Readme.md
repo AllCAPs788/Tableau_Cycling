@@ -13,4 +13,6 @@ Visualizations provided are here to tackle two trends:
 
 ## Analysis
 
-Analysis is explored [**here**](https://github.com/AllCAPs788/citibike_tableau/blob/master/Analysis.md).  
+Each trend has two visualizations related to either age or gender. They are then combined into a dashboard and a story for each trend. 
+
+Further analysis is explored [**here**](https://github.com/AllCAPs788/citibike_tableau/blob/master/Analysis.md).  
